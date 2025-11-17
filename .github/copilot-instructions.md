@@ -709,3 +709,25 @@ private void OnLeaderboardUpdate(LeaderboardUpdate update)
 **Last Updated**: November 16, 2025  
 **Unity Version**: 2022.3 LTS  
 **Target Platform**: Meta Quest 2 & 3
+
+---
+
+## Self-Update Instructions for This File
+
+**Purpose**: This section enables GitHub Copilot to maintain and improve this instruction file over time.
+
+### When to Update This File
+
+Update this file when:
+- **New patterns discovered**: Common Unity/VR bugs, anti-patterns, or best practices emerge
+- **Bugs or issues resolved**: Document fixes for VR-specific issues (rope physics, networking, performance)
+- **Features added**: New VR mechanics, mini-games, or Unity systems
+- **Technology updates**: Unity 2022.3 LTS updates, Meta Quest SDK changes, Netcode updates
+
+### Central Documentation References
+
+Defer to these single sources of truth:
+- **Technology Stack**: [init/docs/TECH-STACK.md](https://github.com/dusty-plate/init/blob/main/docs/TECH-STACK.md)
+- **Agent Coordination**: [init/docs/AGENT-COORDINATION.md](https://github.com/dusty-plate/init/blob/main/docs/AGENT-COORDINATION.md)
+
+**Last Self-Update**: 2025-11-16 by GitHub Copilot
